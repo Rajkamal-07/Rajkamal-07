@@ -1,12 +1,23 @@
 # Hey There 👋
----
-<blockquote>
-  <p>“DevOps is not a goal, but a never-ending process of continual improvement”</p>
-  <footer>- Jez Humble</footer>
-</blockquote>
+
 
 <div align="center">
-# 💻 My Tech Stack
+
+💡 **A Quote:**
+
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; position: relative;">
+
+ “DevOps is not a goal, but a never-ending process of continual improvement”
+
+<div style="position: absolute; bottom: 0; right: 0;"><em>- Jez Humble</em></div>
+
+</div>
+
+
+<div align="center">
+  
+## 💻 My Tech Stack
+
 </div>
 
 <p align="center">
