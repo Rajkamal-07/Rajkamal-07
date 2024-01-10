@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    ![My Skills]
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azuregit,kubernetes,docker,github,grafana,jenkins,linux,py,terraform,ansible" />
+    <![My Skills]>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,git,kubernetes,docker,github,grafana,jenkins,linux,py,terraform,ansible" />
   </a>
 </p>
