@@ -1,9 +1,10 @@
 # Hey There 👋
 
+💡 **A Quote:**
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="DevOps is not a goal, but a never-ending process of continual improvement"&author=myself&type=center&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <div align="center">
-
-💡 **A Quote:**
 
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; position: relative;">
 
