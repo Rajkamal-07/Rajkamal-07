@@ -1,22 +1,19 @@
 # Hey There 👋
 
-💡 **A Quote:**
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="DevOps is not a goal, but a never-ending process of continual improvement"&author=myself&type=center&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 <div align="center">
-
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; position: relative;">
-
- “DevOps is not a goal, but a never-ending process of continual improvement”
-
-<div style="position: absolute; bottom: 0; right: 0;"><em>- Jez Humble</em></div>
+ 
+💡 **A Quote:**
 
 </div>
 
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=DevOps%20is%20not%20a%20goal,%20but%20a%20never-ending%20process%20of%20continual%20improvement&author=Raj%20Kamal%20P&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 <div align="center">
-  
+
 ## 💻 My Tech Stack
 
 </div>
