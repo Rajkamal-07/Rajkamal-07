@@ -1,5 +1,15 @@
 # Hey There 👋
 
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif"/>
+   <img src="https://media.giphy.com/media/NmusiEU5N4J27rVQk7/giphy.gif"/>
+</div>
+
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/1y0zSu5hYE1pJSdqmI/giphy.gif"/>
+</div>
+
+
 🚀 I'm a DevOps Enthusiast with expertise in Cloud technologies and other DevOps principles.
 
 💡 Over the years, I've gained hands-on experience in implementing and optimizing DevOps practices, leveraging cloud platforms to streamline development and deployment processes.
