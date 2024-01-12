@@ -1,7 +1,7 @@
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif" width="300"/ >
-   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
-   <img src="https://media.giphy.com/media/NmusiEU5N4J27rVQk7/giphy.gif" width="300"/>
+   <img src="https://media.giphy.com/media/jVqYgn09W8FHEf0BBS/giphy.gif" width="200"/ >
+   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+   <img src="https://media.giphy.com/media/NmusiEU5N4J27rVQk7/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
