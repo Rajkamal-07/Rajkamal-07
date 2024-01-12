@@ -87,7 +87,10 @@ Happy coding! 🚀
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
+- [How to Make Your Awesome GitHub Profile](https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog)
+- [Reflections and Goal Setting as a Software Engineer](https://dev.to/kshyun28/reflections-and-goal-setting-as-a-software-engineer-4ddg)
+- [How to Create Real-Time Alerts for Blockchain Events with AWS and QuickNode](https://dev.to/kshyun28/how-to-create-real-time-alerts-for-blockchain-events-with-aws-and-quicknode-23oe)
+- [5 Things I’ve Learned from the AWS Startups Build Accelerator 2023](https://dev.to/kshyun28/5-things-ive-learned-from-the-aws-startups-build-accelerator-2023-5dml)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
